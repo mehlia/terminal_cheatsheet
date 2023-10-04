@@ -1,6 +1,19 @@
-MarkDown Cheat Sheet
+# TERMINAL COMMANDS CHEAT SHEET
 
-These are the cheat codes to get the correct syntaxes.
+- `ls` shows what directories are available
+- `pwd` shows pathway of directory 
+- `cd` changes directory
+- `cd -` goes back to the beginning
+- `mkdir` makes new directory
+- `touch` makes new files
+- `rm` clears directories or files
+- `mv` changes directory/file names
+- `cp` copies directory/file
+- `open .` opens textEdit
+- `code .` opens in VS
+
+
+# MARKDOWN COMMANDS CHEAT SHEET
 
 Basic Syntax:
 
